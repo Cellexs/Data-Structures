@@ -1,9 +1,9 @@
 # Data-Structures
-A compilation of school projects from my data structures class
+A compilation of school projects from my data structures class.
 
 The general skeletons of each project (methods and some global variables, alongwith 
 the variables stated in the comments above each method) were written and given to me
-as a starting point by Michael Leverignton, my professor for the course. 
+as a starting point by Michael Leverington, my professor for the course. 
 
 All logic inside of said methods are my own code unless otherwise stated by the comment.
 
