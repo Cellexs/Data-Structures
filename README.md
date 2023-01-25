@@ -1,7 +1,7 @@
 # Data-Structures
 A compilation of school projects from my data structures class.
 
-The general skeletons of each project (methods and some global variables, alongwith 
+The general skeletons of each project (methods and some global variables, along with 
 the variables stated in the comments above each method) were written and given to me
 as a starting point by Michael Leverington, my professor for the course. 
 
